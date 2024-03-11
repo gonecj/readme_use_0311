@@ -3,7 +3,16 @@
 마크다운 문법이 사용된다.
 
 ```
-코드 style
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("HI");
+        System.out.println("HI");
+        System.out.println("HI");
+        System.out.println("HI");
+        System.out.println("HI");
+        System.out.println("HI");
+    }
+}
 
 ```
 
